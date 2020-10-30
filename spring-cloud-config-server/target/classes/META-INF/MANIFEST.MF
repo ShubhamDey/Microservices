@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-config-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Shubham
+Implementation-Vendor-Id: com.in28minutes.microservices
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://spring.io/projects/spring-boot/spring-clou
+ d-config-server
+Created-By: Maven Integration for Eclipse
+
